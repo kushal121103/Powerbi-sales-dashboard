@@ -4,7 +4,7 @@ This Power BI project provides a **comprehensive view of sales performance** acr
 
 ---
 
-## 🧠 What This Dashboard Shows
+##  What This Dashboard Shows
 
 This sales dashboard includes key metrics such as:
 
