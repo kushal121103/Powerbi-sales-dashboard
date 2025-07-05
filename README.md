@@ -11,7 +11,8 @@ This sales dashboard includes key metrics such as:
 - ✅ **Total Sales**
 - 📈 **Monthly Sales Trends**📊 Sales Dashboard – Power BI Project
 
-Project Title: Sales Dashboard using Power BICreated by: Kushal yadav Tool Used: Microsoft Power BI DesktopFile Name: SALES DESHBOARD.pbix
+Project Title: Sales Dashboard using Power BI 
+Tool Used: Microsoft Power BI DesktopFile Name: SALES DESHBOARD.pbix
 
 📁 About the Project
 
