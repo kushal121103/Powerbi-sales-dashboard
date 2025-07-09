@@ -1,0 +1,15 @@
+Powerbi-sales-dashboard/
+│
+├── README.md
+├── Data/
+│   └── Sample - Superstore.csv
+│
+├── PBIX_Files/
+│   └── SALES DESHBOARD.pbix
+│
+├── Images/
+│   ├── Sales Forecast-30 Days.png
+│   └── Sales-dashboard.png
+│
+└── Reports/
+    └── Insights.md
